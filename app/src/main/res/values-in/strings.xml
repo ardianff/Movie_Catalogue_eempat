@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie &amp; TV Show Catalogue</string>
+    <string name="movie">Film</string>
+    <string name="TvShow">Acara TV</string>
+    <string name="overview">Deskripsi</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="change_language">Pengaturan Bahasa</string>
+    <string name="description">Deskripsi</string>
+    <string name="image">Image</string>
+    <string name="favorite_s">Favorit</string>
+    <string name="remove">dihapus dari favorit</string>
+    <string name="added">ditambahkan ke favorit"</string>
+    <string name="failed">Gagal mengunduh data"</string>
+
+</resources>
